@@ -16,7 +16,7 @@ jalankan http://localhost/phpmyadmin di browser anda
 
 copy paste file logsimulasi.sql
 
-lalu jalankan script php
+lalu jalankan script simulasi.php
 
 
 check link video ini
