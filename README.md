@@ -10,6 +10,15 @@ script ini membantu simulasi investasi untuk investor / trader crypto.
 pilih coin crypto , masukkan jumlahnya, lalu tunggu beberapa saat, setelah itu anda dapat melihat pertumbuhan
 coin crypto yang anda investasikan.
 
+Install XAMPP (Apache, Phpmyadmin, Mysql, Php) pada desktop pc/laptop anda.
+buat database simulasi_crypto,
+jalankan http://localhost/phpmyadmin di browser anda
+
+copy paste file logsimulasi.sql
+
+lalu jalankan script php
+
+
 check link video ini
 <a target="_kukuhtw" href="https://www.youtube.com/watch?v=Td6eruob8-I">demo video di youtube  https://www.youtube.com/watch?v=Td6eruob8-I</a>
 
