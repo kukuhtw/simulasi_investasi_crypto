@@ -10,6 +10,9 @@ script ini membantu simulasi investasi untuk investor / trader crypto.
 pilih coin crypto , masukkan jumlahnya, lalu tunggu beberapa saat, setelah itu anda dapat melihat pertumbuhan
 coin crypto yang anda investasikan.
 
-check link vide ini
+check link video ini
 <a target="_kukuhtw" href="https://www.youtube.com/watch?v=Td6eruob8-I">demo video di youtube  https://www.youtube.com/watch?v=Td6eruob8-I</a>
+
+Script ini memerlukan API yang dapat anda peroleh di link ini : https://botmantul.id/crypto/register.php
+
 
