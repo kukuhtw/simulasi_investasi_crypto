@@ -18,9 +18,11 @@ copy paste file logsimulasi.sql
 
 lalu jalankan script simulasi.php
 
-
-check link video ini
+check link video ini 1
 <a target="_kukuhtw" href="https://www.youtube.com/watch?v=Td6eruob8-I">demo video di youtube  https://www.youtube.com/watch?v=Td6eruob8-I</a>
+
+check link video ini 2
+<a target="_kukuhtw" href="https://www.youtube.com/watch?v=-JvEOXBtRmU">demo video di youtube https://www.youtube.com/watch?v=-JvEOXBtRmU </a>
 
 Script ini memerlukan API yang dapat anda peroleh di link ini : https://botmantul.id/crypto/register.php
 
